@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&hide_title=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?count_private=true&username=kethan1&show_icons=true&hide_title=true&theme=dark" />
 
 ### Hi there 👋
 
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact" />
