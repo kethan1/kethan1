@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=kethan1&color=blue)
 
+Hi, I am a python programmer. I love coding, experimenting, and tinkering!
+
 
 <!--
 **kethan1/kethan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
