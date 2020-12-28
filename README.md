@@ -1,3 +1,5 @@
+![](header.png)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?count_private=true&username=kethan1&show_icons=true&hide_title=true&theme=dark" />
 
 ### Hi there 👋
