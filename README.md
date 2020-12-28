@@ -1,6 +1,4 @@
-![](header.png)
-
-### Hi there 👋
+## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=kethan1&color=blue)
 
