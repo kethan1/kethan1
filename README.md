@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi There 👋
 
 ![](https://komarev.com/ghpvc/?username=kethan1&color=blue)
 
