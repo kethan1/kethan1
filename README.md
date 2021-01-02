@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=kethan1&show_icons=true&hide_title=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=kethan1&show_icons=true&hide_title=true&theme=dark" />
 <a href="https://stackoverflow.com/users/13710015/ketzoomer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13710015&theme=dark" /></a>
