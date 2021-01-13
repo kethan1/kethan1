@@ -1,4 +1,4 @@
-[](./header.png)
+![Header](./header.png)
 
 # Hi There <img src="./wave.gif" width="30px">
 
