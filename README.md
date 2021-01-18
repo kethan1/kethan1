@@ -1,4 +1,5 @@
-![Header](./header.png)
+![Header](./header-dark.png)
+![Header](./header-light.png)
 
 # Hi There <img src="./wave.gif" width="30px">
 
