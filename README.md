@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/13710015/ketzoomer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13710015&theme=dark" /></a>
 
 My [Favorite Octocat](https://octodex.github.com):
-<a href="https://octodex.github.com/ironcat/"><img src="https://octodex.github.com/images/ironcat.jpg"></img></a>
+
+<a href="https://octodex.github.com/ironcat/"><img src="https://octodex.github.com/images/ironcat.jpg" width="300px"></img></a>
