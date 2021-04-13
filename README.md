@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=kethan1&color=blue) 
 ![](https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=blue&color=0C7DBE)
+![](https://img.shields.io/badge/Shell-Windows&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 
 Hi, I am a python programmer. I love coding, experimenting, and tinkering!
 
