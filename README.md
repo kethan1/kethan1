@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 My [Favorite Octocat](https://octodex.github.com):
 
-<a href="https://octodex.github.com/ironcat/"><img src="https://octodex.github.com/images/ironcat.jpg" width="300px"></img></a>
+<a href="https://octodex.github.com/ironcat/"><img src="/icons/IronCat.png" width="300px"></img></a>
