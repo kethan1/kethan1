@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kethan1&theme=github)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact" />
