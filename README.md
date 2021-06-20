@@ -8,7 +8,9 @@
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Windows&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 
-Hi, I am a python programmer. I love coding, experimenting, and tinkering!
+Hi, I'm a programmer, who mainly codes in Python! I love coding, experimenting, and tinkering!
+
+I currently know Python, HTML, CSS, Javascript (and NodeJS), C++, C, and a little Java. I plan on learning Rust and C#. 
 
 <!--
 **kethan1/kethan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
