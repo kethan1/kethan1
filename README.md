@@ -1,5 +1,5 @@
-![Header](./header-dark.png)
-![Header](./header-light.png)
+![Header](./header-dark.png#gh-dark-mode-only)
+![Header](./header-light.png#gh-light-mode-only)
 
 # Hi There <img src="./wave.gif" width="30px">
 
