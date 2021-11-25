@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kethan1&theme=github)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-light-mode-only" />
 <img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=kethan1&show_icons=true&hide_title=true&theme=dark" /> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kethan1&" alt="kethan1" /></p>
 <a href="https://stackoverflow.com/users/13710015/ketzoomer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13710015&theme=dark" /></a>
