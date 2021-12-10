@@ -10,7 +10,7 @@
 
 Hi, I'm a programmer, who mainly codes in Python! I love coding, experimenting, and tinkering!
 
-I currently know Python, HTML, CSS, Javascript (and NodeJS), C++, and C. I am currently learning Dart and Flutter. I plan on learning Rust, C#, and Java. 
+I currently know Python, HTML, CSS, Javascript (and NodeJS), C++, and Dart. I am currently learning Flutter. I plan on learning Rust, C#, and Java. 
 
 <!--
 **kethan1/kethan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
