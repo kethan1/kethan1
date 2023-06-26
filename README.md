@@ -8,9 +8,13 @@
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Windows&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 
-Hi, I'm a programmer, who mainly codes in Python! I love coding, experimenting, and tinkering!
+Hi, I'm Kethan Vegunta. I love coding, experimenting, and tinkering. I love to create projects that make life easier and help others.
 
-I currently know Python, HTML, CSS, Javascript (and NodeJS), C++, Dart, Flutter, C#, and Unity. I am learning Java and I plan on learning Rust. 
+I currently know Python, HTML, CSS, Javascript, C++, Dart, Flutter, C#, and Unity. I am learning Java and I plan on learning Rust. 
+
+I am proficient in Full Stack Web Development, with most of my projects utilizing Flask.
+
+Recently, I have also been experimenting with Machine Learning, for which I use Python. 
 
 <!--
 **kethan1/kethan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
