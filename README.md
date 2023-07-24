@@ -1,18 +1,18 @@
 ![Header](./header-dark.png#gh-dark-mode-only)
 ![Header](./header-light.png#gh-light-mode-only)
 
-# Hi There <img src="./wave.gif" width="30px">
+# Hi, I'm Kethan Vegunta!
 
 ![](https://komarev.com/ghpvc/?username=kethan1&color=blue) 
-![](https://img.shields.io/badge/OS-Windows&nbsp;11-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
+![](https://img.shields.io/badge/OS-Windows&nbsp;11-informational?style=flat&logo=windows11&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Windows&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 
-Hi, I'm Kethan Vegunta. I love coding, experimenting, and tinkering. I love to create projects that make life easier and help others.
+I love coding, experimenting, and tinkering. I enjoy creating projects that make life easier and help others.
 
-I currently know Python, HTML, CSS, Javascript, C++, Dart, Flutter, C#, and Unity. I am learning Java and I plan on learning Rust. 
+I am proficient in Python, Flask, HTML, CSS, Javascript, React, Dart, Flutter, and Java. I am currently learning C and C++.
 
-I am proficient in Full Stack Web Development, with most of my projects utilizing Flask.
+I am experienced in Full Stack Web Development, with most of my projects utilizing Flask.
 
 Recently, I have also been experimenting with Machine Learning, for which I use Python. 
 
@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
+
+- 🌱 I’m currently learning C.
+- 📫 How to reach me: You can reach me at my email, <a href="mailto:kethan@vegunta.com">kethan_at_vegunta_dot_com.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats/#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact" />
