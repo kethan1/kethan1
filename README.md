@@ -37,15 +37,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I frequently play table tennis.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=default#gh-light-mode-only)
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-dark-mode-only)
+[![Github Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kethan1#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=kethan1#gh-light-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Github Readme Streak Stats Dark](https://github-readme-streak-stats.herokuapp.com/?user=kethan1&theme=dark#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats/#gh-dark-mode-only) [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=default#gh-light-mode-only) [![StackOverflow Card](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-light#gh-light-mode-only)](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-light#gh-light-mode-only)
 
-[![Github Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kethan1#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=kethan1#gh-light-mode-only)
-[![Github Readme Streak Stats Dark](https://github-readme-streak-stats.herokuapp.com/?user=kethan1&theme=dark#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats/#gh-dark-mode-only)
-
-[![StackOverflow Card](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-light#gh-light-mode-only)](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-light#gh-light-mode-only)
-[![StackOverflow Card Dark](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-dark#gh-dark-mode-only)](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-dark#gh-dark-mode-only)
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-dark-mode-only) [![StackOverflow Card Dark](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-dark#gh-dark-mode-only)](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-dark#gh-dark-mode-only)
