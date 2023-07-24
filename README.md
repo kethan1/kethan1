@@ -14,7 +14,7 @@ I am proficient in Python, Flask, HTML, CSS, Javascript, React, Dart, Flutter, a
 
 I am experienced in Full Stack Web Development, with most of my projects utilizing Flask.
 
-Recently, I have also been experimenting with Machine Learning, for which I use Python. 
+Recently, I have also been experimenting with Machine Learning, for which I use Python and PyTorch. 
 
 <!--
 **kethan1/kethan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,35 +35,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C.
 - 📫 How to reach me: You can reach me at my email, <a href="mailto:kethan@vegunta.com">kethan_at_vegunta_dot_com.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play table tennis.
+- ⚡ Fun fact: I frequently play table tennis.
 
-<a href="https://github.com/anuraghazra/github-readme-stats/#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats/#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark" />
-</a>
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats/#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=kethan1&show_icons=true&hide_title=true" /> 
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats/#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=kethan1&show_icons=true&hide_title=true&theme=dark" /> 
-</a>
-<br />
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats/#gh-light-mode-only">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kethan1&" alt="kethan1" /></p> 
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats/#gh-dark-mode-only">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kethan1&theme=dark" alt="kethan1" /></p>
-</a>
-<a href="https://stackoverflow.com/users/13710015/ketzoomer/#gh-light-mode-only">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=13710015" />
-</a>
-<a href="https://stackoverflow.com/users/13710015/ketzoomer/#gh-dark-mode-only">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=13710015&theme=dark" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=default#gh-light-mode-only)
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact&theme=dark#gh-dark-mode-only)
 
-My [Favorite Octocat](https://octodex.github.com):
 
-<a href="https://octodex.github.com/ironcat/"><img src="/icons/IronCat.png" width="300px"></img></a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kethan1&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Github Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kethan1#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=kethan1#gh-light-mode-only)
+[![Github Readme Streak Stats Dark](https://github-readme-streak-stats.herokuapp.com/?user=kethan1&theme=dark#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats/#gh-dark-mode-only)
+
+[![StackOverflow Card](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-light#gh-light-mode-only)](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-light#gh-light-mode-only)
+[![StackOverflow Card Dark](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-dark#gh-dark-mode-only)](https://stackoverflow-card.vercel.app/?userID=13710015&theme=stackoverflow-dark#gh-dark-mode-only)
