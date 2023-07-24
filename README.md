@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C.
 - 📫 How to reach me: You can reach me at my email, <a href="mailto:kethan@vegunta.com">kethan_at_vegunta_dot_com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play table tennis.
 
 <a href="https://github.com/anuraghazra/github-readme-stats/#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethan1&layout=compact" />
