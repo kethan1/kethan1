@@ -1,12 +1,13 @@
-![Header](./header-dark.png#gh-dark-mode-only)
-![Header](./header-light.png#gh-light-mode-only)
+![Header Dark](./header-dark.png#gh-dark-mode-only)
+![Header Light](./header-light.png#gh-light-mode-only)
 
 # Hi, I'm Kethan Vegunta!
 
-![](https://komarev.com/ghpvc/?username=kethan1&color=blue) 
-![](https://img.shields.io/badge/OS-Windows&nbsp;11-informational?style=flat&logo=windows11&logoColor=blue&color=0C7DBE)
-![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
-![](https://img.shields.io/badge/Shell-Windows&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
+![Profile Views Badge](https://komarev.com/ghpvc/?username=kethan1&color=blue) 
+![Windows 11 Badge](https://img.shields.io/badge/OS-Windows_11-informational?logo=windows11&logoColor=blue&color=0C7DBE)
+![Visual Studio Code Badge](https://img.shields.io/badge/Editor-VS_Code-informational?logo=visual-studio-code&logoColor=blue&color=0C7DBE)
+![Windows Terminal Badge](https://img.shields.io/badge/Shell-Windows_Terminal-informational?logo=windows-terminal&logoColor=blue&color=0C7DBE)
+![KetZoomer Reddit Karma](https://img.shields.io/reddit/user-karma/combined/KetZoomer)
 
 I love coding, experimenting, and tinkering. I enjoy creating projects that make life easier and help others.
 
