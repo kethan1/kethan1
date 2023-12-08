@@ -10,11 +10,10 @@
 
 I love coding, experimenting, and tinkering. I enjoy creating projects that make life easier and help others.
 
-I am proficient in Python, Flask, HTML, CSS, Javascript, React, Dart, Flutter, and Java. I am currently learning C and C++.
+I am experienced in Full Stack Web Development, with most of my projects utilizing Flask, React, and TailwindCSS.
+I have also developed various mobile apps, for which I mostly use Dart and Flutter. 
 
-I am experienced in Full Stack Web Development, with most of my projects utilizing Flask.
-
-Recently, I have also been experimenting with Machine Learning, for which I use Python and PyTorch. 
+Recently, I have also been experimenting with Machine Learning, for which I use Python and PyTorch. I'm also trying to get more comfortable with C and C++.
 
 <!--
 **kethan1/kethan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 -->
 <br>
 
-- 🌱 I’m currently learning C.
 - 📫 How to reach me: You can reach me at my email, <a href="mailto:kethan@vegunta.com">kethan_at_vegunta_dot_com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I frequently play table tennis.
