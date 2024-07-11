@@ -11,7 +11,7 @@
 
 I love coding, experimenting, and tinkering. I enjoy creating projects that make life easier and help others.
 
-I am experienced in Full Stack Web Development, with most of my projects utilizing Flask, React, and TailwindCSS.
+I am experienced in Full Stack Web Development, with most of my projects utilizing Flask, NextJS, React, and TailwindCSS.
 I have also developed various mobile apps, for which I mostly use Dart and Flutter. 
 
 Recently, I have also been experimenting with Machine Learning, for which I use Python and PyTorch. I'm also trying to get more comfortable with C and C++.
